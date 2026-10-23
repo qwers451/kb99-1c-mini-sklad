@@ -1,0 +1,21 @@
+# Локальные информационные базы, проверки и журналы
+.local/
+*.1CD
+*.1CL
+*.cfl
+*.lgd
+*.lgf
+*.log
+*.tmp
+*.bak
+*.dt
+*.cf
+*.cfu
+~$*
+
+# Настройки редакторов и ОС
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
